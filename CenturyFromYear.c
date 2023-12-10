@@ -3,7 +3,7 @@
  * Created on 07/12/2023
  * Last modified on 10/12/2023
  * No copyright
- * This program takes a year and return the century.
+ * This program takes a year as input and returns the century it is in as output.
  * Version History: 1.0 - only pure code; 2.0 - comments added.
  * 
  * @author Mathew Philip Peedikayil
